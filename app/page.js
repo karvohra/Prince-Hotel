@@ -1,3 +1,3 @@
 export default function Home() {
-  return <h1>Hello The Hotel Prince</h1>;
+  return <h1>Welcome to The Hotel Prince</h1>;
 }
